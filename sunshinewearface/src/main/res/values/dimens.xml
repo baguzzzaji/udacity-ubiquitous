@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="watch_y_offset">80dp</dimen>
+    <dimen name="watch_text_size_digital_clock">36dp</dimen>
+    <dimen name="watch_text_size_digital_date">16dp</dimen>
+    <dimen name="watch_text_size_digital_temp">24dp</dimen>
+</resources>
